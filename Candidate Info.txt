@@ -1,0 +1,4 @@
+Name: Seng Sonarith
+Campus: 1
+Shift: Afternoon
+Major: Software Engineering
